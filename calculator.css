@@ -1,0 +1,101 @@
+.body {
+   margin-top: 100px;
+   margin-left: 200px;
+   background-color: darkred;
+   width: 240px;
+   padding: 10px;
+}
+
+.theme1{
+    background-color: darkmagenta;
+}
+
+.theme2{
+    background-color: darkcyan;
+}
+
+h4{
+    color: #fff;
+    margin-top: -2px;
+}
+
+#span1{
+    margin-left: 150px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+#span2{
+    cursor: pointer;
+}
+
+.answer{
+    background-color: #f7f7f7;
+    height: 55px;
+    width: 240px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+h2{
+    text-align: right;
+    padding-top: 16px;
+    padding-right: 10px;
+}
+
+.btn-body{
+    background-color: blue;
+    height: 200px;
+    width: 240px;
+    border-radius: 5px;
+}
+
+.btn-1{
+    padding-top: 15px;
+    margin-left: 14px;
+}
+
+.div-btn{
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.btns{
+    margin-left: 10px;
+}
+
+.btn {
+    background-color: #fff;
+    width: 42px;
+    height: 26px;
+    border-radius: 5px;
+    border-color: #fff;
+    font-weight: 600;
+}
+
+.btn:active {
+    background-color: purple;
+    color: #fff;
+}
+
+.btnR{
+    background-color: rgb(26, 71, 71);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: rgb(26, 71, 71);
+}
+
+.btnE{
+    background-color: red;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    border-color: red;
+}
